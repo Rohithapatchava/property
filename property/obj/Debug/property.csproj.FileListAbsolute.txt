@@ -1,0 +1,2 @@
+D:\Rohitha\c sharp\property\property\obj\Debug\property.csprojResolveAssemblyReference.cache
+D:\Rohitha\c sharp\property\property\obj\Debug\property.csproj.CoreCompileInputs.cache
